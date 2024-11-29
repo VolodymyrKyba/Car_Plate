@@ -1,0 +1,4 @@
+train: C:\Users\kybav\OneDrive\Desktop\Car_plate\Car_Plate\images\train
+val: C:\Users\kybav\OneDrive\Desktop\Car_plate\Car_Plate\images\val
+nc: 1
+names: ['license_plate']
